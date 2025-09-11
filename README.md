@@ -22,6 +22,7 @@ Currently, this collection includes code examples for:
 
 - JavaScript
 - Python
+- C#
 
 ---
 
@@ -55,6 +56,7 @@ Saat ini, koleksi ini mencakup contoh kode untuk:
 
 - JavaScript
 - Python
+- C#
 
 ---
 
