@@ -16,16 +16,6 @@ This collection covers essential concepts that form the basis of any programming
 
 ---
 
-#### **Languages Included**
-
-Currently, this collection includes code examples for:
-
-- JavaScript
-- Python
-- C#
-
----
-
 #### **Contributions**
 
 Contributions are highly welcome. If you wish to add examples for a new language, please submit a **pull request**.
@@ -47,16 +37,6 @@ Koleksi ini mencakup konsep-konsep penting yang menjadi fondasi setiap bahasa pe
 - **Perulangan (Looping):** Jalankan blok kode yang sama berulang kali untuk menghindari penulisan yang berulang (`for`, `while`).
 - **Array (atau List):** Simpan dan kelola kumpulan data dalam satu variabel.
 - **Fungsi (atau Method):** Buat blok kode yang dapat digunakan kembali untuk tugas-tugas tertentu, membuat program Anda lebih terorganisir dan efisien.
-
----
-
-#### **Bahasa yang Tersedia**
-
-Saat ini, koleksi ini mencakup contoh kode untuk:
-
-- JavaScript
-- Python
-- C#
 
 ---
 
