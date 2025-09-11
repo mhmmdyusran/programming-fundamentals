@@ -1,5 +1,3 @@
-### English
-
 This repository is a collection of fundamental code examples for various programming languages, serving as a quick reference for developers.
 
 #### **Core Programming Concepts**
