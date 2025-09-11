@@ -22,6 +22,7 @@ Contributions are highly welcome. If you wish to add examples for a new language
 
 ---
 
-#### **Constributor**
+#### **Contributors**
 
 - mhmmdyusran
+- Firr, The Creator.
