@@ -6,8 +6,7 @@
 - [] Rust
 - [] C
 - [] C++
-- [] C#
-- [] Assembly
+- [x] C#
 - [] Fortran
 - [] Pascal
 - [] TypeScript

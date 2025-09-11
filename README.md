@@ -22,30 +22,6 @@ Contributions are highly welcome. If you wish to add examples for a new language
 
 ---
 
-### Bahasa Indonesia
-
-Repositori ini adalah koleksi contoh kode fundamental untuk berbagai bahasa pemrograman, yang berfungsi sebagai referensi cepat bagi para pengembang.
-
-#### **Konsep Dasar Pemrograman**
-
-Koleksi ini mencakup konsep-konsep penting yang menjadi fondasi setiap bahasa pemrograman:
-
-- **Variabel dan Tipe Data:** Pelajari cara menyimpan berbagai jenis data (seperti angka, teks, atau nilai benar/salah) dalam wadah bernama.
-- **Input dan Output (I/O):** Pahami cara membuat program Anda interaktif dengan menampilkan informasi dan menerima masukan dari pengguna.
-- **Operator:** Gunakan ini untuk melakukan operasi pada data Anda, seperti operasi matematika (`+`, `-`) atau perbandingan (`==`, `>`).
-- **Percabangan (Conditional Statements):** Buat kode yang dapat mengambil keputusan dengan menjalankan blok kode berbeda berdasarkan kondisi (`if`, `else`).
-- **Perulangan (Looping):** Jalankan blok kode yang sama berulang kali untuk menghindari penulisan yang berulang (`for`, `while`).
-- **Array (atau List):** Simpan dan kelola kumpulan data dalam satu variabel.
-- **Fungsi (atau Method):** Buat blok kode yang dapat digunakan kembali untuk tugas-tugas tertentu, membuat program Anda lebih terorganisir dan efisien.
-
----
-
-#### **Kontribusi**
-
-Kami menyambut baik kontribusi Anda. Jika Anda ingin menambahkan contoh untuk bahasa baru, silakan ajukan **pull request**.
-
----
-
 #### **Constributor**
 
 - mhmmdyusran
