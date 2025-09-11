@@ -46,7 +46,7 @@ Kami menyambut baik kontribusi Anda. Jika Anda ingin menambahkan contoh untuk ba
 
 ---
 
-#### **Constributor**
+#### **Contributors**
 
 - mhmmdyusran
 - Firr, The Creator.
