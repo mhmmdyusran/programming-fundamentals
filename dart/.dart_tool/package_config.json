@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "programming_fundamentals",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.8.3",
+  "pubCache": "file:///C:/Users/ASUS/AppData/Local/Pub/Cache"
+}

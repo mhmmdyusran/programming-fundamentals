@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "programming_fundamentals"
+  ],
+  "packages": [
+    {
+      "name": "programming_fundamentals",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
