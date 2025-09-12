@@ -4,7 +4,7 @@
 - [x] Python
 - [x] Golang
 - [x] Rust
-- [] C
+- [x] C
 - [x] C++
 - [x] C#
 - [] Fortran
