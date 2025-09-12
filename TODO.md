@@ -3,7 +3,7 @@
 - [x] JavaScript
 - [x] Python
 - [x] Golang
-- [] Rust
+- [x] Rust
 - [] C
 - [] C++
 - [x] C#
