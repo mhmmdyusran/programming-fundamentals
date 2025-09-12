@@ -10,7 +10,7 @@
 - [] Fortran
 - [] Pascal
 - [x] TypeScript
-- [] Java
+- [x] Java
 - [x] PHP
 - [] Ruby
 - [] R
