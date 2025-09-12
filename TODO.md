@@ -1,4 +1,4 @@
-# List of languages ​​that have been or will be added
+### List of languages ​​that have been or will be added
 
 - [x] JavaScript
 - [x] Python
@@ -20,3 +20,5 @@
 - [x] Nim
 - [] Perl
 - [] Swift
+- [] Arduino
+- [] SQL Plus
