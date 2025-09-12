@@ -22,5 +22,5 @@ Contributions are highly welcome. If you wish to add examples for a new language
 
 #### **Contributors**
 
-- [mhmmdyusran](github.com/mhmmdyusran)
-- [Firr, The Creator.](github.com/firrthecreator)
+- [mhmmdyusran](https://github.com/mhmmdyusran)
+- [Firr, The Creator.](https://github.com/firrthecreator)
