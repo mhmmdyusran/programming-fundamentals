@@ -9,7 +9,7 @@
 - [x] C#
 - [] Fortran
 - [] Pascal
-- [] TypeScript
+- [x] TypeScript
 - [] Java
 - [] PHP
 - [] Ruby
