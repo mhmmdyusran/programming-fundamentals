@@ -11,6 +11,6 @@
 - [] Pascal
 - [x] TypeScript
 - [] Java
-- [] PHP
+- [x] PHP
 - [] Ruby
 - [] R
