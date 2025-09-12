@@ -20,5 +20,7 @@
 - [x] Nim
 - [] Perl
 - [] Swift
+- [] Kotlin
+- [] Objective-C
 - [] Arduino
 - [] SQL Plus
