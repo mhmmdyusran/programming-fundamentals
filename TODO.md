@@ -14,3 +14,6 @@
 - [x] PHP
 - [] Ruby
 - [] R
+- [] Arduino
+- [] Lua
+- [] SQL Plus
