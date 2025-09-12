@@ -20,7 +20,13 @@
 - [x] Nim
 - [] Perl
 - [] Swift
-- [] Kotlin
-- [] Objective-C
-- [] Arduino
+- [x] Kotlin
+- [x] Objective-C
+- [x] Scala
+- [] Elixir
+- [] F#
+- [] D
+- [] PureScript
+- [] V
+- [] Matlab
 - [] SQL Plus

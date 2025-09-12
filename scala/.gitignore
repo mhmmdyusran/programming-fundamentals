@@ -1,0 +1,38 @@
+# sbt
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+.idea
+
+# VS Code specific
+.vscode/
+.settings/
+.project
+.classpath
+
+# Metals specific
+.metals/
+.bloop/
+metals.sbt
+
+# BSP
+.bsp/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
