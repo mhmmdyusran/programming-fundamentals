@@ -5,7 +5,7 @@
 - [x] Golang
 - [x] Rust
 - [] C
-- [] C++
+- [x] C++
 - [x] C#
 - [] Fortran
 - [] Pascal
