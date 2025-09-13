@@ -29,4 +29,5 @@
 - [] PureScript
 - [] V
 - [] Matlab
+- [] Clojure
 - [] SQL Plus
