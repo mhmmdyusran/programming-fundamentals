@@ -30,4 +30,9 @@
 - [] V
 - [] Matlab
 - [] Clojure
+- [] Xbase++
+- [] ActionScript
+- [] Groovy
+- [] OpenCL
+- [] SML
 - [] SQL Plus
