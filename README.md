@@ -24,3 +24,4 @@ Contributions are highly welcome. If you wish to add examples for a new language
 
 - [mhmmdyusran](https://github.com/mhmmdyusran)
 - [Firr, The Creator.](https://github.com/firrthecreator)
+- [Piahn Wijaya](https://github.com/Piahn)
